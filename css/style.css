@@ -46,21 +46,21 @@
 }
 
 .icons-search{
-    content: url("search.svg");
+    content: url("./search.svg");
     width: 3%;
     height: 60%;
     margin-left: 2%;
 }
 
 .icons-home{
-    content: url("home.svg");
+    content: url("./home.svg");
     width: 3%;
     height: 60%;
     margin-left: 2%;
 }
 
 .icons-exit{
-    content: url("exit.svg");
+    content: url("./exit.svg");
     width: 3%;
     height: 60%;
     margin-left: 2%;
